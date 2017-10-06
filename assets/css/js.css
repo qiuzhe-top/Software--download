@@ -4,8 +4,10 @@
 .sli1{
     display:none;    
 }
-.sli1-maka{
-    display:none;    
+.sli1maka{
+    display:none; 
+    float: left;  
+    height: 1px; 
 }
 .daohan{
     position: relative;
